@@ -71,7 +71,7 @@ public class prueba1 extends javax.swing.JFrame
             @Override
             public void actionPerformed(ActionEvent e)
             {
-                JOptionPane.showMessageDialog(null, "La has liado", "Error", 3);
+                JOptionPane.showMessageDialog(null, "La has liado", "Error", 0);
             }
         });
         
